@@ -1,0 +1,2 @@
+# Preferencias
+Archivos de preferencias

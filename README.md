@@ -1,2 +1,2 @@
 # Preferencias
-Archivos de preferencias
+Archivos de preferencias de configuración para mis entornos de trabajo.
